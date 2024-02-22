@@ -1,0 +1,39 @@
+Aragwaithi Campaign
+======================
+
+Plot:
+
+Scenario 1:
+
+Fight off an enemy stationed north and impeding your progress.
+
+Player Leader: Aragwaith Flagbearer
+Player Loyal: Aragwaith Adept
+Player Recruits: Spearman, Swordsman, Archer, Scout
+Comment: Do not allow player to get eagle riders so early.
+
+Player Leader: Aragwaith Flagbearer
+Player Loyals: 2 Aragwaith Adept (1 on challenging)
+Player Recruits: Spearman, Swordsman, Archer, Scout
+Comment: Do not allow player to get eagle riders so early.
+
+Scenario 2:
+
+Long vertical map. Player has to move to the south edge.
+
+Player Leader: Aragwaith Flagbearer
+Player Loyal: Aragwaith Adept
+Player Recruits: Spearman, Swordsman, Archer, Scout
+Comment: Give player 2-3 Eagle Riders
+
+Scenario 3:
+
+Valley. Medium sized map. Player has to fight 2 enemy sides. There will be fog.
+
+Player Leader: Aragwaith Flagbearer
+Player Loyal: Aragwaith Adept
+Player Recruits: Spearman, Swordsman, Archer, Scout
+
+Scenario 4:
+
+There is a castle uphead. The Player side must fight through the enemy defense and retrieve the artifact.
