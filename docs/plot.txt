@@ -5,12 +5,7 @@ Plot:
 
 Scenario 1:
 
-Fight off an enemy stationed north and impeding your progress.
-
-Player Leader: Aragwaith Flagbearer
-Player Loyal: Aragwaith Adept
-Player Recruits: Spearman, Swordsman, Archer, Scout
-Comment: Do not allow player to get eagle riders so early.
+Fight off an enemy stationed south of the player village and impeding your progress. The invaders have stolen the village's housed relic, the Electrifyre.
 
 Player Leader: Aragwaith Flagbearer
 Player Loyals: 2 Aragwaith Adept (1 on challenging)
@@ -36,7 +31,7 @@ Player Recruits: Spearman, Swordsman, Archer, Scout
 
 Scenario 4:
 
-There is a castle uphead. The Player side must fight through the enemy defense and retrieve the artifact. Use the artifact to crush the enemy leader.
+There is a castle uphead. The Player side must fight through the enemy defense and retrieve the artifact. Use the artifact to crush the enemy leader. There is fog and shroud.
 
 Player Leader: Aragwaith Flagbearer
 Player Loyal: Aragwaith Adept
