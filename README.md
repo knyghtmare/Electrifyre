@@ -8,7 +8,7 @@ A Single-Player camapign for the [Battle for Wesnoth](https://www.wesnoth.org/) 
 
 - Type: SP Campaign
 - Beginner
-- Scenario Length: 3
+- Scenario Length: 4
 
 ## Dependencies
 
