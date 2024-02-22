@@ -36,4 +36,8 @@ Player Recruits: Spearman, Swordsman, Archer, Scout
 
 Scenario 4:
 
-There is a castle uphead. The Player side must fight through the enemy defense and retrieve the artifact.
+There is a castle uphead. The Player side must fight through the enemy defense and retrieve the artifact. Use the artifact to crush the enemy leader.
+
+Player Leader: Aragwaith Flagbearer
+Player Loyal: Aragwaith Adept
+Player Recruits: Spearman, Swordsman, Archer, Scout
