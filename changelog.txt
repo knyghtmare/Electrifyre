@@ -6,21 +6,27 @@ Changelog v1.0.3
 ======================
 
 v1.0.3
+------------------------------------------------------------------
 --> S1: fire guardians get trait resilient instead of trait infused
 --> S1: updated hint message on fire guardians
 --> S1: typo fixes
 --> S1: calibrate AI targeting system
+--> S2: tweak vampire AI settings
 --> S3: added 2 more vampire leaders
+--> S3: tweak vampire AI settings
 --> S4: fire guardians get trait resilient instead of trait infused
 --> S4: ice ghosts get trait strong instead of trait infused
 --> S4: several guardian units no longer have trait fortified
 
+
 v1.0.2
 --> S3: added more strength to enemies
+
 
 v1.0.1
 --> initial release
 --> revised scenarios 1 and 3
+
 
 v1.0.0
 --> Beta release
