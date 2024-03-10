@@ -1,8 +1,8 @@
-# Aragwaithi_Campaign
+# Electrifyre: An Aragwaith Story
 
 ## About Add-on
 
-A Single-Player camapign for the [Battle for Wesnoth](https://www.wesnoth.org/) turn-based strategy game with the goal of introducing the Aragwaithi faction to players. It has 3 scenarios and is mostly aimed for beginners.
+A Single-Player camapign for the [Battle for Wesnoth](https://www.wesnoth.org/) turn-based strategy game with the goal of introducing the Aragwaithi faction to players. It has 4 scenarios and is mostly aimed for beginners.
 
 ### Campaign Specifics
 
