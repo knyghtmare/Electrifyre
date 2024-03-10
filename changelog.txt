@@ -19,6 +19,7 @@ v1.0.3
 --> S4: fire guardians get trait resilient instead of trait infused
 --> S4: ice ghosts get trait strong instead of trait infused
 --> S4: several guardian units no longer have trait fortified
+    --> Especially Dwarven Guardsman-line units
 
 
 v1.0.2
