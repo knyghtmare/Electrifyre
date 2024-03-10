@@ -7,7 +7,8 @@ A Single-Player camapign for the [Battle for Wesnoth](https://www.wesnoth.org/) 
 ### Campaign Specifics
 
 - Type: SP Campaign
-- Beginner
+- Beginner (Tutorial Difficulty)
+- Veteran players might enjoying playing on the higher difficulties
 - Scenario Length: 4
 
 ## Dependencies
