@@ -1,9 +1,18 @@
 Electrifyre
 ======================
 
-Changelog v1.0.3
+Changelog v1.0.5
 
 ======================
+
+v1.0.5
+
+--> Allow player side to recruit all Aragwaith recruits
+    --> 4 already available at start
+    --> 1 unlocked in scenario 2
+    --> the final one unlocked in scenario 3
+
+ 
 
 v1.0.3
 ------------------------------------------------------------------
