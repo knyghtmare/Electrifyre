@@ -45,3 +45,23 @@ There is a castle uphead. The Player side must fight through the enemy defense a
 Player Leader: Aragwaith Flagbearer
 Player Loyal: Aragwaith Adept
 Player Recruits: Spearman, Swordsman, Archer, Scout
+
+Scenario 6:
+
+The mage leader is defeated, but her dwarven accomplice escapes underground.
+Ryuuma (your ally from the previous scenario) has decided to pursue them.
+You and your band follow as well. Your allied forces join you.
+Both parties end up in a vast chamber and are beset by night creatures.
+Collaborate to survive and figure out to overcome the cavern.
+
+Player Leader: Aragwaith Longswordsman
+Player Recruits: All Aragwaith Recruits
+Player Ally: Aragwaith Shield Guard
+
+Scenario 7:
+
+The party arrive at a dwarven hold, and must collapse the bridge, while holding the dwarven attacking force at bay. To collapse the bridge, player side must find 5 runes to deactivate. There will be monster spawns here.
+
+Player Leader: Aragwaith Longswordsman
+Player Recruits: All Aragwaith Recruits
+Player Ally: Aragwaith Shield Guard
