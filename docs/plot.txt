@@ -46,13 +46,25 @@ Player Leader: Aragwaith Flagbearer
 Player Loyal: Aragwaith Adept
 Player Recruits: Spearman, Swordsman, Archer, Scout
 
-Scenario 6:
+Scenario 5X:
 
 The mage leader is defeated, but her dwarven accomplice escapes underground.
 Ryuuma (your ally from the previous scenario) has decided to pursue them.
+None combat puzzle scenario. There is a hidden puzzle, leading a secret scenario.
+
+Scenario 6A:
+
 You and your band follow as well. Your allied forces join you.
 Both parties end up in a vast chamber and are beset by night creatures.
 Collaborate to survive and figure out to overcome the cavern.
+
+Player Leader: Aragwaith Longswordsman
+Player Recruits: All Aragwaith Recruits
+Player Ally: Aragwaith Shield Guard
+
+Scenario 6B:
+
+This is a tunnel. Long and Dark. Player must guide Ryuuma to the end of the tunnel. There will be several enemies.
 
 Player Leader: Aragwaith Longswordsman
 Player Recruits: All Aragwaith Recruits
