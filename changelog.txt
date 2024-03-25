@@ -11,6 +11,8 @@ v1.0.5
     --> 4 already available at start
     --> 1 unlocked in scenario 2
     --> the final one unlocked in scenario 3
+--> Fixed bug: error wml: [side] not supported
+--> Wild Knolls: new scenario
 
  
 
