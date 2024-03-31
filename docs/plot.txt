@@ -88,7 +88,7 @@ Player Ally: Aragwaith Shield Guard
 
 Scenario 8:
 
-After both trials, the party arrive at another myriad of tunnels and meet Deep Elves. Together with deep elves, they must disrupt caravans of Valefolk from reaching their destination. There should be
+After both trials, the party arrive at another myriad of tunnels and meet Deep Elves. Together with deep elves, they must disrupt caravans of Valefolk from reaching their destination. There should be achievement for stopping all caravans.
 
 Player Leader: Aragwaith Longswordsman
 Player Recruits: All Aragwaith Recruits
@@ -96,7 +96,7 @@ Player Ally: Aragwaith Shield Guard
 
 Scenario 9:
 
-
+With deep elves allies, you arrive at their fortress: the city of light, deep underground. The enemy is too strong so player side and ally have to hold off the enemy waves, while ensuring they can collapse the cave entrance connecting the city of life to the aragwaithian country.
 
 Player Leader: Aragwaith Longswordsman
 Player Recruits: All Aragwaith Recruits
