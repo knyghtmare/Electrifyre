@@ -50,7 +50,7 @@ Scenario 5X:
 
 The mage leader is defeated, but her dwarven accomplice escapes underground.
 Ryuuma (your ally from the previous scenario) has decided to pursue them.
-None combat puzzle scenario. There is a hidden puzzle, leading a secret scenario.
+None combat puzzle scenario. There is a hidden puzzle, leading to 2 secret scenarios.
 
 Scenario 6A:
 
@@ -70,9 +70,33 @@ Player Leader: Aragwaith Longswordsman
 Player Recruits: All Aragwaith Recruits
 Player Ally: Aragwaith Shield Guard
 
-Scenario 7:
+Scenario 7A:
 
-The party arrive at a dwarven hold, and must collapse the bridge, while holding the dwarven attacking force at bay. To collapse the bridge, player side must find 5 runes to deactivate. There will be monster spawns here.
+After exiting the hall, the party ends up in a lava cavern: Cavern of Flames. Now, player must guide Ryuuma through the place while keeping him alive. Player can control Ryuuma's movement via right click menu and his units will be closely moving with him via micro AI code. To progress through the pathway, party has to find and activate ancient runic gates located elsewhere. You can also fine a ordinary flaming sword artifact here.
+
+Player Leader: Aragwaith Longswordsman
+Player Recruits: All Aragwaith Recruits
+Player Ally: Aragwaith Shield Guard
+
+Scenario 7B:
+
+After the dark tunnels, they arrive at a flat plane cavern. There are continuous hissing sounds. There is a giant scorpion boss which they must defeat before moving onwards. Defeating the boss will grant a superior grade artifact.
+
+Player Leader: Aragwaith Longswordsman
+Player Recruits: All Aragwaith Recruits
+Player Ally: Aragwaith Shield Guard
+
+Scenario 8:
+
+After both trials, the party arrive at another myriad of tunnels and meet Deep Elves. Together with deep elves, they must disrupt caravans of Valefolk from reaching their destination. There should be
+
+Player Leader: Aragwaith Longswordsman
+Player Recruits: All Aragwaith Recruits
+Player Ally: Aragwaith Shield Guard
+
+Scenario 9:
+
+
 
 Player Leader: Aragwaith Longswordsman
 Player Recruits: All Aragwaith Recruits
