@@ -101,3 +101,11 @@ With deep elves allies, you arrive at their fortress: the city of light, deep un
 Player Leader: Aragwaith Longswordsman
 Player Recruits: All Aragwaith Recruits
 Player Ally: Aragwaith Shield Guard
+
+Scenario 9X: Epilogue
+
+After the ending story, Hikaru is summoned to Aeranas.
+There is granted an audience with the Crown Prince.
+Ryuuma has recommended him.
+Hikaru is offered a rank as a captain.
+Hikaru accepts.
