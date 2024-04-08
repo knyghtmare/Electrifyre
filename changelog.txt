@@ -6,7 +6,8 @@ Changelog v1.0.6
 ======================
 
 v1.0.6
---> 
+--> Added new achievements and sub-achievements
+--> Refined existing scenarios
 
 v1.0.5
 
