@@ -8,6 +8,9 @@ Changelog v1.0.6
 v1.0.6
 --> Added new achievements and sub-achievements
 --> Refined existing scenarios
+--> S04: hidden achievement title has changed
+--> S04: bonus objective is no longer present
+--> S05: new side objectives added
 
 v1.0.5
 
