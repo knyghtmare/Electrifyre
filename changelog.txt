@@ -7,7 +7,10 @@ Changelog v1.0.7
 
 v1.0.7
 
---> 
+--> S5: The Mage and The Sword:
+    --> Fixed a bug with wrong coordinates
+    --> Added new secondary keep for player
+    --> added 4 new locations for gold piles
 
 v1.0.6
 --> Added new achievements and sub-achievements
