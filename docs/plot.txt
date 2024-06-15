@@ -94,6 +94,11 @@ Player Leader: Aragwaith Longswordsman
 Player Recruits: All Aragwaith Recruits
 Player Ally: Aragwaith Shield Guard
 
+Scenario 8B (optional)
+
+During the break, Ryuuma recounts a story of his time in the battle vs the dunefolk.
+Optional prompt. If chosen, play an optional scenario of the 960th battalion defending the aragwaithian border from the dunefolk vanguard. Introduce crown prince Tokito here. Also show the captain of the battalion revealing as an aragwaith vampire hybrid and have the battalion give him his final rest.
+
 Scenario 9:
 
 With deep elves allies, you arrive at their fortress: the city of light, deep underground. The enemy is too strong so player side and ally have to hold off the enemy waves, while ensuring they can collapse the cave entrance connecting the city of life to the aragwaithian country.
