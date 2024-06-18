@@ -94,7 +94,7 @@ Player Leader: Aragwaith Longswordsman
 Player Recruits: All Aragwaith Recruits
 Player Ally: Aragwaith Shield Guard
 
-Scenario 8B (optional)
+Scenario 8C (optional)
 
 During the break, Ryuuma recounts a story of his time in the battle vs the dunefolk.
 Optional prompt. If chosen, play an optional scenario of the 960th battalion defending the aragwaithian border from the dunefolk vanguard. Introduce crown prince Tokito here. Also show the captain of the battalion revealing as an aragwaith vampire hybrid and have the battalion give him his final rest.
