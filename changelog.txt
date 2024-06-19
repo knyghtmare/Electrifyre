@@ -1,9 +1,16 @@
 Electrifyre
 ======================
 
-Changelog v1.0.7
+Changelog v1.0.8
 
 ======================
+
+v1.0.8
+--> S6: new scenario
+--> S5X: new cutscene (partially added, branch A fully)
+--> S7: new scenario
+--> S7X: new cutscene
+--> S8: added stub of scenario as checkpoint of saving progress
 
 v1.0.7
 
