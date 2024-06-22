@@ -11,6 +11,8 @@ v1.0.8
 --> S7: new scenario
 --> S7X: new cutscene
 --> S8: added stub of scenario as checkpoint of saving progress
+--> S4: fixed hidden achievement being unobtainable
+--> S4: fixed a bug of the stones awakening to non-adept tree units
 
 v1.0.7
 
