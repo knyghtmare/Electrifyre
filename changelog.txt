@@ -1,9 +1,14 @@
 Electrifyre
 ======================
 
-Changelog v1.0.8
+Changelog v1.0.9
 
 ======================
+
+v1.0.9
+--> S8A: new scenario
+--> S9A: new scenario
+--> S9X: new cutscene
 
 v1.0.8
 --> S6: new scenario
