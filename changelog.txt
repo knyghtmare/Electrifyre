@@ -1,9 +1,13 @@
 Electrifyre
 ======================
 
-Changelog v1.0.10
+Changelog v1.0.11
 
 ======================
+
+v1.0.11
+--> S1: fixed bug of fire guardians spawning with 25/30 HP
+--> S2: dialogue refinements and typo fixes
 
 v1.0.10
 --> S9A: new scenario
