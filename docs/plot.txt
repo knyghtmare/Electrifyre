@@ -64,11 +64,11 @@ Player Ally: Aragwaith Shield Guard
 
 Scenario 6B:
 
-This is a tunnel. Long and Dark. Player must guide Ryuuma to the end of the tunnel. There will be several enemies.
+This is a tunnel. Long and Dark. Player must guide Ayanami to the end of the tunnel. There will be several enemies.
 
 Player Leader: Aragwaith Longswordsman
 Player Recruits: All Aragwaith Recruits
-Player Ally: Aragwaith Shield Guard
+Player Ally: Aragwaith Enchantress
 
 Scenario 7A:
 
@@ -80,11 +80,11 @@ Player Ally: Aragwaith Shield Guard
 
 Scenario 7B:
 
-After exiting the hall, the party ends up in an underground lake. Now, player must guide Ryuuma through the place while keeping him alive. Player can control Ryuuma's movement via right click menu and his units will be closely moving with him via micro AI code. To progress through the pathway, party has to find and activate ancient runic gates located elsewhere. You can also fine an artifact here.
+After exiting the hall, the party ends up in an underground lake. Now, player must guide Ayanami through the place while keeping him alive. To progress through the pathway, party has to find and activate ancient runic gates located elsewhere. You can also find an artifact here.
 
 Player Leader: Aragwaith Longswordsman
 Player Recruits: All Aragwaith Recruits
-Player Ally: Aragwaith Shield Guard
+Player Ally: Aragwaith Enchantress
 
 Scenario 8:
 
