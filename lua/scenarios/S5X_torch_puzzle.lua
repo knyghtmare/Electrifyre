@@ -16,8 +16,8 @@ local _ = wesnoth.textdomain "wesnoth-Electrifyre"
 -- CONFIG
 ----------------------------------------------------------------------
 
-local UNLIT = "^Eb"
-local LIT   = "^Ebi"
+local UNLIT = "Exos^Eb"
+local LIT   = "Exos^Ebn"
 
 -- The four brazier hexes on the map (game coordinates).
 local BRAZIERS = {
@@ -57,13 +57,12 @@ local function sequence_index(x, y)
     return nil
 end
 
--- Change only the overlay of a hex, keeping its base terrain (Exos).
-local function set_overlay(x, y, overlay)
+-- Set a full terrain code on a hex (base + overlay).
+local function set_overlay(x, y, terrain)
     wesnoth.wml_actions.terrain {
         x = x,
         y = y,
-        terrain = overlay,
-        layer = "overlay",
+        terrain = terrain,
     }
 end
 
@@ -158,12 +157,20 @@ end
 -- EVENT HOOK
 ----------------------------------------------------------------------
 
-wesnoth.game_events.on_event("moveto", function(ctx)
+-- wesnoth.log("warning", "05X torch puzzle script loaded")
+
+-- Called from a WML [event] name=moveto (see the scenario snippet).
+-- Using a WML event instead of game_events.on_event, because the Lua-registered
+-- handler never fired in this scenario.
+function s5x_torch_moveto()
+    local ctx = wesnoth.current.event_context
+    local x, y = ctx.x1, ctx.y1
+    -- wesnoth.log("warning", "torch moveto " .. tostring(x) .. "," .. tostring(y))
+
     if is_solved() then return end
 
-    local x, y = ctx.x1, ctx.y1
     local unit = wesnoth.units.get(x, y)
     if not unit or unit.side ~= SIDE_ALLOWED then return end
 
     on_torch_stepped(x, y)
-end)
+end
