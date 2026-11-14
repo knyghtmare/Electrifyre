@@ -1,20 +1,10 @@
 -- 05X_torch_puzzle.lua
 -- Torch sequence puzzle for 05X_Ephemeral_Calm
---
--- Four braziers (^Eb = unlit, ^Ebi = lit) must be lit in a fixed order.
--- * Stepping on an unlit brazier lights it.
--- * If it is the next brazier in the sequence, it stays lit.
--- * If it is the wrong one, all braziers are extinguished and the puzzle resets.
--- * When the whole sequence is done, all braziers stay lit and the
---   "s5x_puzzle_open_gates" event is fired.
---
 -- Progress is stored in WML variables, so it is save/load safe.
 
 local _ = wesnoth.textdomain "wesnoth-Electrifyre"
 
-----------------------------------------------------------------------
 -- CONFIG
-----------------------------------------------------------------------
 
 local UNLIT = "Exos^Eb"
 local LIT   = "Exos^Ebn"
@@ -35,17 +25,15 @@ local SEQUENCE = {
     {  6, 14 },
 }
 
-local SIDE_ALLOWED  = 1                         -- only the player's side can light torches
-local VAR_PROGRESS  = "s5x_torch_progress"      -- how many torches are correctly lit so far
-local VAR_SOLVED    = "s5x_torch_solved"        -- set to yes once solved
-local EVENT_SOLVED  = "s5x_puzzle_open_gates"   -- already exists in the scenario
+local SIDE_ALLOWED  = 1
+local VAR_PROGRESS  = "s5x_torch_progress"
+local VAR_SOLVED    = "s5x_torch_solved"
+local EVENT_SOLVED  = "s5x_puzzle_open_gates"
 
-local SOUND_LIGHT   = "fire.wav"                -- swap for any sound you prefer
-local SOUND_FAIL    = "water-blast.wav"         -- swap for any sound you prefer
+local SOUND_LIGHT   = "fire.wav"
+local SOUND_FAIL    = "water-blast.wav"
 
-----------------------------------------------------------------------
 -- HELPERS
-----------------------------------------------------------------------
 
 -- Position of (x, y) in SEQUENCE, or nil if it is not a puzzle brazier.
 local function sequence_index(x, y)
@@ -89,9 +77,7 @@ local function play(name)
     wesnoth.wml_actions.sound { name = name }
 end
 
-----------------------------------------------------------------------
 -- PUZZLE LOGIC
-----------------------------------------------------------------------
 
 local function reset_puzzle()
     play(SOUND_FAIL)
@@ -153,15 +139,11 @@ local function on_torch_stepped(x, y)
     end
 end
 
-----------------------------------------------------------------------
 -- EVENT HOOK
-----------------------------------------------------------------------
 
 -- wesnoth.log("warning", "05X torch puzzle script loaded")
 
 -- Called from a WML [event] name=moveto (see the scenario snippet).
--- Using a WML event instead of game_events.on_event, because the Lua-registered
--- handler never fired in this scenario.
 function s5x_torch_moveto()
     local ctx = wesnoth.current.event_context
     local x, y = ctx.x1, ctx.y1
